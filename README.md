@@ -130,6 +130,9 @@ Si seleccionas una imagen ISO de **Windows**, Rufus mostrará una opción adicio
 ### ¡Todo Listo!
 Una vez que tu PC arranque desde el **USB booteable** o **disco externo**, podrás instalar el sistema operativo sin problemas.
 
+- **[Ver todas las versiones de Rufus](https://rufus.ie/downloads/)**: Consulta todas las versiones lanzadas de Rufus y descarga la que necesites.
+- **[Repositorio en GitHub](https://github.com/pbatard/rufus)**: Consulta el repositorio oficial de Rufus para más información y actualizaciones.
+
 ---
 
 ## Licencia
